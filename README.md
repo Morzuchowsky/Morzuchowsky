@@ -35,4 +35,6 @@ I'm deeply interested in AI technology and am fascinated by the simplicity of Py
 
 ![](/assets/lichess.png)
 
+#
+
 [![Morzuchowsky's GitHub Streak](https://streak-stats.demolab.com?user=morzuchowsky)](https://git.io/streak-stats)
