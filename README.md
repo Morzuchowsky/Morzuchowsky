@@ -14,6 +14,8 @@ I'm deeply interested in AI technology and am fascinated by the simplicity of Py
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+<br />
 
 #
 
@@ -31,6 +33,6 @@ I'm deeply interested in AI technology and am fascinated by the simplicity of Py
 
 #
 
-![](/assets/lichess.gif)
+![](/assets/lichess.png)
 
 [![Morzuchowsky's GitHub Streak](https://streak-stats.demolab.com?user=morzuchowsky)](https://git.io/streak-stats)
