@@ -32,6 +32,6 @@ I'm deeply interested in AI technology and am fascinated by the simplicity of Py
 ![](/assets/Query_Bot.gif)
 
 #
-
+I enjoy playing and analyzing chess in my free time. It helps me improve my focus and strategic thinking.
 ![](/assets/lichess.png)
 
